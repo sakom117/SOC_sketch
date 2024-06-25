@@ -1,9 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T07:20:15.889Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" version="24.6.2" etag="xOgALspST7db66T7pwK4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T20:35:02.674Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="aBHJt9C-Ep-ObzK8AqSI" version="24.6.3" type="github">
   <diagram name="Страница — 1" id="ugy7VfHNkBleF3peXNF8">
-    <mxGraphModel>
+    <mxGraphModel dx="1228" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <object label="" id="hCHluo2798_iAQItsM5X-23">
+          <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="123.75" y="58.5" width="496" height="122" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="hCHluo2798_iAQItsM5X-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.physical_upstream_router;" vertex="1" parent="1">
+          <mxGeometry x="290" y="93" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hCHluo2798_iAQItsM5X-17" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.security_icons.firewall;" vertex="1" parent="1">
+          <mxGeometry x="350" y="100.5" width="49.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="hCHluo2798_iAQItsM5X-19" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.laptop;" vertex="1" parent="1">
+          <mxGeometry x="490" y="99.5" width="50" height="36" as="geometry" />
+        </mxCell>
+        <object label="" id="hCHluo2798_iAQItsM5X-21">
+          <mxCell style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="414" y="88" width="60" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="hCHluo2798_iAQItsM5X-5" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
+          <mxGeometry x="220" y="53.5" width="24" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="hCHluo2798_iAQItsM5X-6" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
+          <mxGeometry x="257" y="53.5" width="24" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="hCHluo2798_iAQItsM5X-9" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
+          <mxGeometry x="220" y="103.5" width="24" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="hCHluo2798_iAQItsM5X-12" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.traditional_server;" vertex="1" parent="1">
+          <mxGeometry x="257" y="103.5" width="24" height="81" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
